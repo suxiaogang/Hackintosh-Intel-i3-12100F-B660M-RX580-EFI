@@ -4,6 +4,7 @@
 **OpenCore**: 1.0.1 with dualboot
 
 #### Specifications
+|Item|Description|
 |-|:-------:|
 |CPU|Intel Core i3 12100F|
 |Motherboard|SOYO B660M|
@@ -14,3 +15,5 @@
 |Wi-Fi / Bluetooth|BCM94360CS2 + NGFF|
 
 #### REMEMBER generate and replace with your own SMBIOS infos
+
+![screenshot](https://raw.githubusercontent.com/suxiaogang/Intel-i3-12100F-B660M-RX6600XT-EFI/refs/heads/main/images/macOS%2013.7.jpg)
