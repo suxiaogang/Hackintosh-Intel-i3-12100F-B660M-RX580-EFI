@@ -60,7 +60,7 @@
   - Fast Boot: **Disable Link**
   - Windows 10 Features: **Windows 10**
   - CSM Support: **Disabled**
-  - Secure Boot: **Disabled** (Secure Boot will be disabled by default, but good to check)
+  - Secure Boot: **Disabled**
 
 ---------------------
 
@@ -68,18 +68,13 @@
 - Onboard CNVi Module Control-Disable Integrated
 - Intel VT-D ？
 - Speed Select Technology
-- CFG LOCK
-- Fast BOOT
-- Secure Boot
-- Serial/COM Port
 - Parallel Port
-- Compatibility Support Module (CSM).
 - Intel SGX
-- Intel Platform Trust
-- CAM (Clever Access Memory, AKA Resize Bar) 
+- Intel Platform Trust ？
+- CAM (Clever Access Memory, AKA Resize Bar) ？
 
 ##### ON
-- Re-Size BAR Support
+- Re-Size BAR Support ？
 - SR-IOV Support
 - Err Ready
 - VT-x ？
