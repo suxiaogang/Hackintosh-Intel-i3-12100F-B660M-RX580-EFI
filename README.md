@@ -82,12 +82,8 @@
 - Re-Size BAR Support
 - SR-IOV Support
 - Err Ready
-- VT-x
-- Above 4G decoding.
-- Hyper-Threading
+- VT-x ？
 - Execute Disable Bit
-- EHCI/XHCI Hand-off
-- OS type: Windows 8.1/10 UEFI Mode
 - SATA Mode: AHCI
 
 VT-d ？ / XMP2.0 ？
