@@ -10,8 +10,8 @@
 |Motherboard|Gigabyte B660M GAMING AC DDR4|
 |Memory|Crucial 32GB DDR4 3600Mhz (16GBx2)|
 |SSD1|SK hynix PC801 1TB / Windows11_LTSC2024_24H2|
-|SSD2|Intel® SSD 760p Series 512G / macOS Ventura 14.7.1|
-|GPU|AMD Radeon RX560 XT 8G|
+|SSD2|Dahua C900 PLUS M.2 2280 NVMe 512GB SSD / macOS_Ventura_14.7.1|
+|GPU|AMD Radeon RX 580 8G|
 |Wi-Fi / Bluetooth|BCM94360CS2 + NGFF adapter (PCIex1 slot)|
 
 #### BIOS Version F28
@@ -56,11 +56,13 @@
   - Secure Boot: **Disabled**
 
 ### OTHER: 
-  - Settings - Power - LEDs in System Power On State: **On**
-  - Boot - Mouse Speed: **4 X**
+  - LEDs in System Power On State: **On**
+  - Mouse Speed: **4 X**
 
 
 #### REMEMBER generate and replace with your own SMBIOS infos
+#### [Fixing Broadcom Wi-Fi on macOS 14 Sonoma](https://github.com/perez987/Broadcom-wifi-back-on-macOS-Sonoma-with-OCLP)
+#### [Fixing Shutdown/Restart](https://dortania.github.io/OpenCore-Post-Install/usb/misc/shutdown.html#fixing-shutdown-restart)
 
 ![screenshot](https://raw.githubusercontent.com/suxiaogang/Hackintosh-Intel-i3-12100F-B660M-RX580-EFI/refs/heads/main/images/MacPro.png)
 ![screenshot](https://raw.githubusercontent.com/suxiaogang/Hackintosh-Intel-i3-12100F-B660M-RX580-EFI/refs/heads/main/images/HardwareAcceleration.jpg)
